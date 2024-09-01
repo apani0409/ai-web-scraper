@@ -1,5 +1,5 @@
 AI Web Scraper for Websites with CAPTCHAs
-Overview
+
 This project is an AI-powered web scraper designed to scrape data from websites that use CAPTCHA protection. It utilizes machine learning techniques to solve or bypass CAPTCHAs, allowing for seamless data extraction.
 
 Features

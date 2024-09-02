@@ -4,8 +4,8 @@ This project is an AI-powered web scraper designed to scrape data from websites 
 
 Features:
 
-AI-Based CAPTCHA Solving: Leverages machine learning models to automatically solve CAPTCHAs.
-Integrated Chatbot: Includes a chatbot interface to request specific information from the website, streamlining data extraction.
+AI-Based CAPTCHA Solving: "Bright Data" to automatically solve CAPTCHAs.
+Integrated Chatbot: Includes a chatbot interface to request specific information from the website, streamlining data extraction with ollama3.1.
 Customizable Scraping Targets: Easily configure the scraper to target specific websites.
 Robust Error Handling: Built-in mechanisms to handle various exceptions and challenges during scraping.
 Proxy Support: Option to use proxies to avoid IP blocking.
